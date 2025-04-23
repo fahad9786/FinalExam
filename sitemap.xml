@@ -57,6 +57,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/winter-cookie-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/under-the-sea-cookie-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/decorating-kits-general-post/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
