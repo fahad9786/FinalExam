@@ -1,4 +1,4 @@
-# cd-wordpress
+# FINALEXAM-wordpress
 continuous deployment wordpress
 
 TLDR;
