@@ -1,4 +1,4 @@
-# FINALEXAM-wordpress
+# FinalExam-wordpress
 continuous deployment wordpress
 
 TLDR;
